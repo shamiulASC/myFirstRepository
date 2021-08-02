@@ -1,0 +1,19 @@
+h1{
+    color: green; 
+}
+
+#memes {
+    color: blue;
+}
+
+#headings{
+    border: 5px solid red; 
+    background-color: aqua;
+}
+
+.fred{
+    color:red;
+    background-color: lightblue;
+    padding: 15px;
+    margin-top: 40px;
+}
